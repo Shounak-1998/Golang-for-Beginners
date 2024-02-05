@@ -1,0 +1,14 @@
+Pakage main-->Must start with package name in Go Package keywords and then name to make executable program
+import fmt--shot form for format 
+main-->special type of function and it is the entry point of the executable programs
+fmt.Println-->dot operator is known as the member access operator used to access memberof the package
+anyhting in double quote becomes string
+
+types of comments
+single line comment
+// comment
+multi line comments
+/*
+mulit
+line
+*/
