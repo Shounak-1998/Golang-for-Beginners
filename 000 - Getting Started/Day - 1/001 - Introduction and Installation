@@ -5,9 +5,24 @@ Go was created to combine-
   -with the efficiency and safety of a statically typed, compiled language. (such as C++)
   -It also aimed to be modern, with support for networked and multicore computing.
 
-Install Golang
+Install Golang-->https://go.dev/doc/install
+Install msi file
+And Open CMD and type go version
 
 Craete a Folder
 mkdir workspace
 Create a file
 type nul > main.go
+
+Then Open VS Code Tyep below code of Hello World
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World!")
+}
+
+Then Open terminal with shortcut cntrl+shift+`
+
+Type go run main.go
