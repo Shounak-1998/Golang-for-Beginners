@@ -1,0 +1,13 @@
+Golang
+created by the engineer at Google
+Go was created to combine-
+  -the ease of programming of an interpreted,dynamically typed language (Such as Python)
+  -with the efficiency and safety of a statically typed, compiled language. (such as C++)
+  -It also aimed to be modern, with support for networked and multicore computing.
+
+Install Golang
+
+Craete a Folder
+mkdir workspace
+Create a file
+type nul > main.go
