@@ -40,4 +40,40 @@ func main() {
 Welcome to Shounak, Khualpe
 </pre>
 
-> Now the only problem with print method is that it does not introduce a new line after printing. if we declare two variables and print them one after the other,on runnigna program we see that both of them are printed just next to each other anf doe solution to this is new line character
+> Now, the only problem with using print method is that does not introduce new line after the printing. So if we declare two variables and print one after the other on running the program both of them is printed next to each other the solution is new line character
+
+<pre>
+package main
+import "fmt"
+func main() {
+  var name string = "Shounak"
+  var user string = "Khulape"
+  fmt.Print(name)
+  fmt.Print(user)
+}
+
+>>>go run main.go
+ShounakKhualpe
+</pre>
+
+__newline character__
+
+1. \n is called the Newline character.<br>
+2. It is used to create a new line.<br>
+3. Place with string expressions.<br>
+4. When inserted in a string, all the characters after \n are added to a new line.<br>
+
+<pre>
+package main
+import "fmt"
+func main() {
+  var name string = "Shounak"
+  var user string = "Khulape"
+  fmt.Print(name, "\n")
+  fmt.Print(user)
+}
+
+>>>go run main.go
+Shounak
+Khualpe
+</pre>
