@@ -41,7 +41,5 @@ func main () {
 Hello World
 </pre>
 
-> Now, the only problem with using print method is that does not introduce new line after the printing. So if we declare two variables and print one after the other on running the program both of them is printed next to each other the solution is new line character
->
 
 
