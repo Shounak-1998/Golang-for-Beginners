@@ -1,4 +1,4 @@
-What is Data Type?
+**What is Data Type?**
   
   A data type is a classification made on the kind of data.
   They categorize a set of related values.
@@ -10,6 +10,7 @@ What is Data Type?
   Slices-->represent flexible array-like data typebut they alos provide more control over memory allocation.
   Map-->Collection of key value pair for ex. A map of string to integer "x"->30, 1->100, "key"->"value"
 
-Why are data types needed?
+**Why are data types needed?**
+
 1. categorize a set of related values
 2. describe the operations that can be done on them
