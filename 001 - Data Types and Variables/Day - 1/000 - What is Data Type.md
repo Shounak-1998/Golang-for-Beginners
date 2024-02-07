@@ -6,7 +6,7 @@
   They categorize a set of related values.
   describe the operation done on them.
   For ex. String-->Which is sequence of character and used to represent text
-  **Number**-->
+  __Number__
   Consist of integers(without decimal like -12 0) and floats(contains decimals such as 7.0 or 85.56.)
   **Boolean**-->
   Value True or False
