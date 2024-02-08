@@ -73,6 +73,7 @@ func main() {
   fmt.Print(user)
 }
 
+  
 >>>go run main.go
 Shounak
 Khualpe
