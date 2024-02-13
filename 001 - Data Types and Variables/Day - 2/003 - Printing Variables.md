@@ -33,7 +33,7 @@ import "fmt"
 func main() {
   var name string = "Shounak"
   var user string = "Khulape"
-  fmt.Print("Welcome", name, ", ",user)
+  fmt.Print("Welcome to", name, ", ",user)
 }
 
 >>>go run main.go
